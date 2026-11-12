@@ -1,0 +1,15 @@
+{
+ "campeonato": "BRT CHAMPIONSHIP · T9",
+ "etapas": [
+  {"n":1,"data":"08/11","pista":"HERMANOS RODRÍGUEZ","local":"MÉXICO","circuito":"mx-1962","site_id":207},
+  {"n":2,"data":"15/11","pista":"MÔNACO","local":"MONTE CARLO","circuito":"mc-1929","site_id":208},
+  {"n":3,"data":"22/11","pista":"YAS MARINA","local":"ABU DHABI","circuito":"ae-2009","site_id":209},
+  {"n":4,"data":"29/11","pista":"BAKU","local":"AZERBAIJÃO","circuito":"az-2016","site_id":210},
+  {"n":5,"data":"06/12","pista":"CORINGA","local":"PISTA SORTEADA NO DIA","circuito":"","site_id":211},
+  {"n":6,"data":"13/12","pista":"XANGAI","local":"CHINA","circuito":"cn-2004","site_id":212},
+  {"n":7,"data":"10/01","pista":"CORINGA","local":"PISTA SORTEADA NO DIA","circuito":"","site_id":213},
+  {"n":8,"data":"17/01","pista":"MELBOURNE","local":"AUSTRÁLIA","circuito":"au-1953","site_id":214},
+  {"n":9,"data":"24/01","pista":"SUZUKA","local":"JAPÃO · GRANDE FINAL","circuito":"jp-1962","site_id":215}
+ ],
+ "obs": "Folgas 20/12, 27/12, 03/01. Coringas: pista sorteada no dia; quando sair, preencher pista/local/circuito aqui. Suzuka da T9 é o traçado CURTO (o geojson é o completo)."
+}
